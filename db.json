@@ -38,7 +38,7 @@
      "bathroom" : 1 ,
      "bedroom":3,
    
-     "image":"https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     "image":"https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?w=740&t=st=1692522869~exp=1692523469~hmac=b1ee9fa8c40a5b922c8580c3bba5421abea7bab9ce1ba5b5543b994307f28de7"
      },
      { "id": 6,
      "title": "Big house" ,
@@ -74,31 +74,9 @@
      
      "image":"https://img.freepik.com/free-photo/abandoned-closed-wooden-church-forest-countryside_181624-798.jpg?w=360&t=st=1692518237~exp=1692518837~hmac=9f9bd4ebb4992fc904daaa0964a02ef50a3c628d1a7ea1a0de5b18b0bfe07864"
      },
-     { "id": 10,
-     "title": "beatiful single  hous" ,
-     "description":"Are you looking for an affordable residence to call home & escape the big city. If so; allow us to introduce the new modular style homes. Welcome to our Net-Zero Affordable Housing Extended Stay Rental Community. ",
-     "bathroom" : 3 ,
-     "bedroom":4,
-   
-     "image":"https://img.freepik.com/free-photo/abandoned-closed-wooden-church-forest-countryside_181624-798.jpg?w=360&t=st=1692518237~exp=1692518837~hmac=9f9bd4ebb4992fc904daaa0964a02ef50a3c628d1a7ea1a0de5b18b0bfe07864"
-     },
-     { "id": 11,
-     "title": "sweet family hous" ,
-     "description":"Within a gated community, you will find our Net-Zero properties. This community comes with amenities and offers fifty (50) brand new homes, each set on a one acre plot, leaving plenty of room for expansion.",
-     "bathroom" : 1 ,
-     "bedroom":3,
-    
-     "image":"https://img.freepik.com/free-photo/beautiful-shot-modern-house-kitchen_181624-2943.jpg?w=740&t=st=1692518331~exp=1692518931~hmac=aa3f02d06299b63408150b95390b458b7139104757e1a3ec6a39ca8a626f8de2"
-     },
-     { "id": 12,
-     "title": "Steamboat Inn" ,
-     "description":"Steamboat Inn is an 18 key, full-service, upper midscale, independent resort property. The property sits on US Forest Service (USFS) land in the Umpqua National Forest and operates under a USFS special use permit. The hotel has excellent highway visibility and access. ",
-     "bathroom" : 3 ,
-     "bedroom":4,
-    ,
-     "image":"https://img.freepik.com/free-photo/3d-rendering-loft-luxury-living-room-with-bookshelf_105762-2099.jpg?w=740&t=st=1692265287~exp=1692265887~hmac=b036bfd72c6893c2640c31d02b983dbc651136b4e7dbaf71c9e9cf703f236d4f"
      
-     }
+     
+        }
   ],
 
 
